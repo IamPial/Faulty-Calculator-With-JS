@@ -5,8 +5,8 @@ This faulty calculator does following:
 2. It perfoms wrong operations as follows:
 
 + ---> -
-* ---> +
-- ---> /
+* ---> /
+- ---> +
 / ---> **
 
 
