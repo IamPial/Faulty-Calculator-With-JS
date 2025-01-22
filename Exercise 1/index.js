@@ -60,7 +60,10 @@ else{
         division = num1 / num2;
     }
 }
-console.log(random); 
+//for checking the random numbers;
+// console.log(random); 
+
+//every time using console.log, but I'm here using document.write because I want to see the output in my webpage;
 document.write(`
       ${text} <br>
       Your first number is ${num1} <br>
